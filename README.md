@@ -25,4 +25,4 @@ These are the options in the main menu:
 - Save and Load options will use the ```purchases.txt``` to save data to and load data from the file.
 
 #
-This program is based on the Budget Manager project on [Jet Brains Academy](https://hyperskill.org).
+This program is based on the Budget Manager project on [JetBrains Academy](https://hyperskill.org).
